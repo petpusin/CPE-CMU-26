@@ -13,13 +13,13 @@ int main()
 ## My Information
 > Please insert your answer between \` and \`.
 
-1. Name: ``
-2. Student ID: ``
-3. Section: ``
-4. Age: ``
-5. Your programming skill (0-5): ``
-6. Expected grade of this course: ``
-7. Message to lecturers or TAs: ``
+1. Name: `Attachai Pusin`
+2. Student ID: `600612170`
+3. Section: `801`
+4. Age: `18`
+5. Your programming skill (0-5): `3`
+6. Expected grade of this course: `B+`
+7. Message to lecturers or TAs: `thank you techer`
 
 ---
 ![CPE102 class environment](https://github.com/tmwatchanan/CPE-CMU-26/raw/master/cpe102_class_envi.jpg)
